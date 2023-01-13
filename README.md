@@ -1,5 +1,3 @@
 # TXC
-2021-2022 Q2
+2022-2023 Q1 (y algún contenido del cuatri anterior)
 
-Los talleres tienen todos un 5,x/6.
-Los apuntes son solamente del primer parcial
