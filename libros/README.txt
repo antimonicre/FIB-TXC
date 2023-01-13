@@ -1,0 +1,1 @@
+Lo que no esté en el primer libro, estará en el segundo, lo demás es docu por si te aburres, pero no es necesaria
